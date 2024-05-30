@@ -1,0 +1,9 @@
+.nav-link a {
+    margin-left: 20px;
+}
+
+.active {
+    background: #dd9c3b;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
